@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: #f3f4f6;
+  color: #111;
+  transition: 0.3s;
+}
+
+.dark body {
+  background: #111827;
+  color: white;
+}
+
+.dark .card {
+  background: #1f2937;
+  color: white;
+}
+
+.dark .table {
+  background: #1f2937;
+  color: white;
+}
+
+.dark .chart {
+  background: #1f2937;
+}
