@@ -21,5 +21,5 @@ Modern admin dashboard built with React.
 
 ![Dashboard](./screenshots/dashboard.png)
 ![Dashboard-DarkMode](./screenshots/dashboard-darkmode.png)
-![Users](./screenshots/users.png)
+![Users](./screenshots/users-table.png)
 ![Analytics](./screenshots/analytics.png)
