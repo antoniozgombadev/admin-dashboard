@@ -16,3 +16,10 @@ Modern admin dashboard built with React.
 
 ## Live Demo
 [https://your-admin-dashboard.vercel.app](https://admin-dashboard-mu-ten-20.vercel.app/)
+
+## Preview
+
+![Dashboard](./screenshots/dashboard.png)
+![Dashboard-DarkMode](./screenshots/dashboard-darkmode.png)
+![Users](./screenshots/users.png)
+![Analytics](./screenshots/analytics.png)
